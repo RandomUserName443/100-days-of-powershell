@@ -1,6 +1,8 @@
 # 100-days-of-powershell
 
-## System Monitoring
+## System Admin Tasks
+
+### System Monitoring
 - [ ] [**Disk Space**](./Scripts/DiskSpace.ps1) - Report available disk space  (`get-psdrive`)
 - [ ] **Process List** - Show running processes  (`get-process`)
 - [ ] **System Health** - Display system performance metrics 
@@ -11,3 +13,10 @@
 - [ ] **Service Status** - View status of services (`get-service`)
 - [ ] **System Temperature** - Check system temperature (`get-wmiobject`)
 - [ ] **Startup Programs** - List programs that run at system startup (`get-ciminstance`)
+
+## Data Tasks
+
+### Web Projects
+- [ ] Get API data (`invoke-restmethod` or `invoke-webrequest`)
+
+
